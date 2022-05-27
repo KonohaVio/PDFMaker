@@ -1,6 +1,11 @@
 # PDFMaker
 
 ### 简而言之，将图片打包成PDF文件。
+
+### 最简洁运行：点开##PDFMaker.exe，输入文件夹路径，回车，即可。
+
+
+#### 详细说明：
 #### 点击##PDFMaker.exe即可运行。
 ##### ##PDFMaker.py为源代码（需要python环境），源代码运行只需要##PDFMaker.py，##TOC.txt，##TOCcopy.txt三个文件，其余均可抛弃。
 
